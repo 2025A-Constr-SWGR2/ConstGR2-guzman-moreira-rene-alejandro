@@ -1,5 +1,5 @@
 name: Node Lint
-run-name: Lint nodejs App
+run-name: Lint node.js App
 
 on: [push]
 
